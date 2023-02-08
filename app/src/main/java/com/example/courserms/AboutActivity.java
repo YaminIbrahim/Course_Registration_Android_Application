@@ -109,7 +109,7 @@ public class AboutActivity extends AppCompatActivity {
         gitHub.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                goLink("https://github.com/YaminIbrahim/ZakatGold");
+                goLink("https://github.com/YaminIbrahim/Course_Registration_Android_Application");
             }//close onClick
         }); //.setOnClickListener()
     }
