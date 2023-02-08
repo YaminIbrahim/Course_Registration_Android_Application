@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428699789383",
+    "firebase_url": "https://courserms-default-rtdb.firebaseio.com",
+    "project_id": "courserms",
+    "storage_bucket": "courserms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428699789383:android:47760f1d39e72261646962",
+        "android_client_info": {
+          "package_name": "com.example.courserms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428699789383-h0rh7edu018vlmke6pb44f1noq2dvh9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAylYxLaYkbC9tM7VLO1VdV9bhwCqhooM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428699789383-h0rh7edu018vlmke6pb44f1noq2dvh9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

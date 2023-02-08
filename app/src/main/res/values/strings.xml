@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CourseRMS</string>
+    <string name="registerLink">Did not have any account yet? Register <b>here</b></string>
+    <string name="loginLink">Already have an account? Login <b>here</b></string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="menu_Open">Open</string>
+    <string name="menu_Close">Close</string>
+    <string name="studentDetail"><b>STUDENT NAME     : </b>MUHAMMAD YAMIN BIN IBRAHIM
+        \n<b>STUDENT ID           : </b>2020459282
+        \n<b>CLASS                     : </b>D1CS2405A
+
+        \n\n<b>STUDENT NAME     : </b>MUHAMMAD ZULHELMI BIN MUHAMMAD OTHMAN
+        \n<b>STUDENT ID           : </b>2020618198
+        \n<b>CLASS                     : </b>D1CS2405A
+
+        \n\n<b>STUDENT NAME     : </b>SHARIFAH NADZIRAH BINTI SYED ADNAN
+        \n<b>STUDENT ID           : </b>2020865812
+        \n<b>CLASS                     : </b>D1CS2405A
+
+        \n\n<b>STUDENT NAME     : </b>NURUL FAZIRA BINTI NORWARDI
+        \n<b>STUDENT ID           : </b>2020897306
+        \n<b>CLASS                     : </b>D1CS2405A
+
+        \n\n<b>LECTURER NAME : </b>DR. MUHAMMAD FIRDAUS BIN MUSTAPHA
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_google_map">GoogleMapActivity</string>
+</resources>

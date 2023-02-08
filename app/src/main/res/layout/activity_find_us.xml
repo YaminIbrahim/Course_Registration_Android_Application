@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_findUs"
+    tools:context=".FindUsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvFind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click continue to find us"
+            android:textSize="18sp"
+            android:layout_centerInParent="true"
+            android:textColor="#000"/>
+
+        <Button
+            android:id="@+id/btnFind"
+            android:layout_width="254dp"
+            android:layout_height="27dp"
+            android:layout_below="@+id/tvFind"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="78dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginEnd="79dp"
+            android:layout_marginBottom="222dp"
+            android:background="@drawable/rounded"
+            android:text="Continue"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            app:backgroundTint="@color/burgandy_light" />
+
+    </RelativeLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/navigationFindUs"
+        app:headerLayout="@layout/header_menu"
+        app:menu="@menu/main_menu"
+        android:fitsSystemWindows="true"
+        android:layout_gravity="start">
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>
